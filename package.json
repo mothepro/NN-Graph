@@ -1,0 +1,22 @@
+{
+  "name": "nn-graph",
+  "version": "1.0.0",
+  "description": "Graphs data being stream from neural network training",
+  "main": "index.js",
+  "dependencies": {
+    "chokidar": "^1.4.3",
+    "d3": "^3.5.16",
+    "jsdom": "^8.2.0",
+    "scanf": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Maurice Prosper",
+    "email": "maurice.prosper@ttu.edu",
+    "url": "http://mauriceprosper.com"
+  },
+  "license": "ISC"
+}
